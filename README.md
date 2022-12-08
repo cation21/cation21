@@ -1,9 +1,6 @@
 - 👋 Hi, I’m @cation21
 -  I’m interested in coding 
 -  I’m currently learning c++ and python
--  I'm a complete beginner right now and can't wait to learn
--  
-- 
 
 <!---
 cation21/cation21 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
